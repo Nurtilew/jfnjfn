@@ -1,0 +1,6 @@
+{
+  "name": "QazaqFin AI & Smart Contracts",
+  "description": "Gemini AI дауыстық және мәтіндік көмекшісі, онлайн келісімшарт жасау, цифрлық қол қою және бөліп төлеу жүйесі.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
